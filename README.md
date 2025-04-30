@@ -1,0 +1,2 @@
+# smartApp
+host website
