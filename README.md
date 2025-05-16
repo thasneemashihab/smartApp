@@ -1,2 +1,1 @@
-# smartApp
-host website
+https://thasneemashihab.github.io/keralafood/
